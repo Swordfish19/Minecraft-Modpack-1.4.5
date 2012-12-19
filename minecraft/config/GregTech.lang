@@ -1,5 +1,5 @@
 # Configuration file
-# Generated on 15.12.12 14:32
+# Generated on 19.12.12 21:19
 
 ####################
 # languagefile
@@ -48,7 +48,12 @@ languagefile {
     S:item.GT_Components.2.name=Superconductor
     S:item.GT_Components.20.name=Nichrome Heating Coil
     S:item.GT_Components.21.name=Cupronickel Heating Coil
+    S:item.GT_Components.22.name=Machine Parts
     S:item.GT_Components.3.name=Data Storage Circuit
+    S:item.GT_Components.32.name=Aluminium Machine Hull
+    S:item.GT_Components.33.name=Bronze Machine Hull
+    S:item.GT_Components.34.name=Brass Machine Hull
+    S:item.GT_Components.35.name=Steel Machine Hull
     S:item.GT_Components.4.name=Computer Monitor
     S:item.GT_Dusts.0.name=Ender Pearl Dust
     S:item.GT_Dusts.1.name=Ender Eye Dust
